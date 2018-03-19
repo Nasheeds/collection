@@ -10,6 +10,7 @@ Collection of Nasheeds. These are intended to backup purposes, should not be sha
 - Nadeem Mohammed - SubhanAllah
 - Omar Esa - Tera Pyaar  Your Love 
 - SUBHAN ALLAH - Omar Esa
+- Muhammad al Muqit - I Am Resistant
 
 ## Version 2018-01-28
 
